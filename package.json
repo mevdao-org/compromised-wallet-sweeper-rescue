@@ -1,0 +1,40 @@
+{
+  "name": "compromised-wallet-sweeper-rescue",
+  "version": "1.3.0",
+  "description": "Atomic Flashbots whitehat rescue toolkit to recover ERC-20 tokens, NFTs, staking positions, and unclaimed airdrops from compromised wallets monitored by sweeper bots. Maintained by MEV DAO (https://mevdao.org)",
+  "main": "dist/rescue.js",
+  "type": "module",
+  "scripts": {
+    "rescue:erc20": "tsx src/rescue.ts",
+    "rescue:airdrop": "tsx src/airdropRescue.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "rescue-tokens-from-compromised-wallet",
+    "sweeper-bot-rescue",
+    "flashbots-whitehat-rescue",
+    "claim-airdrop-from-compromised-wallet",
+    "eip-7702-atomic-rescue",
+    "flashbots",
+    "whitehat",
+    "mev-dao",
+    "ethereum"
+  ],
+  "homepage": "https://mevdao.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mevdao-org/compromised-wallet-sweeper-rescue.git"
+  },
+  "author": "MEV DAO <research@mevdao.org> (https://mevdao.org)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
