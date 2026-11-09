@@ -11,7 +11,7 @@
 
 ## Emergency Links & Whitehat Rescue Documentation
 
-- **24/7 Managed Whitehat Rescue Desk:** **[Rescue Tokens from a Compromised Wallet — MEV DAO Sweeper Bot Rescue Service](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service)**
+- **Paid option (MEV DAO Token Rescue Bot):** **[Sweeper Bot Rescue Service](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service)**
 - **Complete Technical Walkthrough:** **[How to Rescue Tokens from a Compromised Wallet with a Sweeper Bot (Flashbots Guide)](https://mevdao.org/blog/how-to-rescue-tokens-from-a-compromised-wallet-with-a-sweeper-bot-flashbots-guid)**
 - **Airdrop & Vesting Recovery Guide:** **[How to Claim an Airdrop from a Compromised Wallet Before the Sweeper Does](https://mevdao.org/blog/how-to-claim-an-airdrop-from-a-compromised-wallet-before-the-sweeper-does)**
 - **EIP-7702 Malicious Delegation Removal:** **[How to Check and Remove a Malicious EIP-7702 Delegation](https://mevdao.org/blog/how-to-check-and-remove-a-malicious-eip-7702-delegation)**
