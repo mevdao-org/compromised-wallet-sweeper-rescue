@@ -183,6 +183,11 @@ Layer-2 rollups use centralized First-In-First-Out (FIFO) sequencers rather than
 - **[Rescue Tokens from a Compromised Wallet: MEV DAO Sweeper Bot Rescue Service](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service)**
 - **[How to Claim an Airdrop from a Compromised Wallet Before the Sweeper Does](https://mevdao.org/blog/how-to-claim-an-airdrop-from-a-compromised-wallet-before-the-sweeper-does)**
 - **[How to Check and Remove a Malicious EIP-7702 Delegation](https://mevdao.org/blog/how-to-check-and-remove-a-malicious-eip-7702-delegation)**
+- **[Unstake from a Compromised Wallet: Rescue Locked Tokens](https://mevdao.org/blog/unstake-from-a-compromised-wallet-rescue-locked-tokens)**
+- **[Rescue ENS Names and Vesting Contracts from a Compromised Wallet](https://mevdao.org/blog/rescue-ens-vesting-contracts-from-a-compromised-wallet)**
+- **[Recover an NFT from a Hacked Wallet (Sweeper Bot Guide)](https://mevdao.org/blog/recover-nft-from-a-hacked-wallet-sweeper-bot-guide)**
+- **[Sweeper Bot on Trust Wallet, Ledger or Rabby: Rescue Steps](https://mevdao.org/blog/sweeper-bot-on-trust-wallet-ledger-rabby-rescue-steps)**
+- **[Field notes: is there a sweeper bot on my wallet?](https://mevdao-org.github.io/sweeper-bot-checklist.html)**
 
 ## License
 
